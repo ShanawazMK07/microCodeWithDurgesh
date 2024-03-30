@@ -4,6 +4,6 @@ public class Hatya {
 
     public static void main(String[] args) {
 
-        System.out.println("Masha ki Zkteccogit");
+        System.out.println("Masha ki hatya");
     }
 }
